@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>co.edu.umanizales</groupId>
-    <artifactId>tads</artifactId>
+    <artifactId>tads-master</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>tads</name>
     <description>tads</description>
@@ -31,11 +31,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>1.18.26</version>
         </dependency>
     </dependencies>
 
